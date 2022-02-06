@@ -1,12 +1,12 @@
 main {
-  min-height: 80vh;
+    min-height: 80vh;
 }
 
 h3 {
-  padding: 1rem 0;
+    padding: 1rem 0;
 }
 
 .rating span {
-  font-size: small;
-  margin: 0.1rem;
+    font-size: small;
+    margin: 0.1rem;
 }
